@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\chinesesaleapi\\chinesesaleapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\chinesesaleapi\\chinesesaleapi\\models\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\models\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\chinesesaleapi\\chinesesaleapi\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\chinesesaleapi\\chinesesaleapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\chinesesaleapi\\chinesesaleapi\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\ChineseSaleApi\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Models\\Donor.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\ChineseSaleApi\\Models\\Donor.cs",
+              "RelativeToolTip": "ChineseSaleApi\\Models\\Donor.cs",
+              "ViewState": "AgIAAA4AAAAALDMzMzMHwBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:12:47.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\ChineseSaleApi\\Models\\Gift.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Models\\Gift.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\ChineseSaleApi\\Models\\Gift.cs",
+              "RelativeToolTip": "ChineseSaleApi\\Models\\Gift.cs",
+              "ViewState": "AgIAABMAAAAA/f////8VwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:12:08.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\ChineseSaleApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\ChineseSaleApi\\Models\\User.cs",
+              "RelativeToolTip": "ChineseSaleApi\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAABwMjMzMzMwwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:01:31.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\ChineseSaleApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\ChineseSaleApi\\Models\\Category.cs",
+              "RelativeToolTip": "ChineseSaleApi\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:25:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\ChineseSaleApi\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\ChineseSaleApi\\ChineseSaleApi\\Models\\Address.cs",
+              "RelativeToolTip": "ChineseSaleApi\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:16:15.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
