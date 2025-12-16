@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj": {}
+    "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj": {
+    "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj",
+        "projectUniqueName": "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj",
         "projectName": "ChineseSaleApi",
-        "projectPath": "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj",
+        "projectPath": "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj",
         "packagesPath": "C:\\Users\\This_user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\ChineseSaleApi\\ChineseSaleApi\\obj\\",
+        "outputPath": "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

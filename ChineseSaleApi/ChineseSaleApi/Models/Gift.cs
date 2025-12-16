@@ -13,17 +13,21 @@ namespace ChineseSaleApi.Models
         [MaxLength(250)]
         public string? Description { get; set; }
         public int Price { get; set; }
+        public int GiftValue { get; set; }
         [MaxLength(250)]
         public string? ImageUrl { get; set; }
+        public bool IsPackageAble { get; set; } = true;
+        //forigen key
         [ForeignKey("Donor")]
         public int DonorId { get; set; }
         public Donor? Donor { get; set; }
         [ForeignKey("Category")]
         public int CategoryId { get; set; }
         public Category? Category { get; set; }
-        [ForeignKey("WinnerUser")]
-        public int WinnerUserId { get; set; }
-        public User? WinnerUser { get; set; }
-        public ICollection<User>? inviters { get; set; }
+        [ForeignKey("Lottery")]
+        public int LotteryId { get; set; }
+        public Lottery Lottery { get; set; }
+        //Icollections
+        public ICollection<User>? Purchasers { get; set; }
     }
 }
