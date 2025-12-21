@@ -8,7 +8,7 @@ namespace ChineseSaleApi.Models
         public int Id { get; set; }
         [Required]
         [MaxLength(30)]
-        public string Username { get; set; }
+        public string UserName { get; set; }
         [Required]
         [MaxLength(15)]
         public string Password { get; set; }
@@ -21,11 +21,16 @@ namespace ChineseSaleApi.Models
         [EmailAddress]
         public string Email { get; set; }
         [Phone]
-        public string Phone { get; set; }
+        public string? Phone { get; set; }
         public bool IsAdmin { get; set; } = false;
-        public int AddressId { get; set; }
+        //forigen key
+        public int? AddressId { get; set; }
         public Address? Address { get; set; }
-        public ICollection<Gift>? WonGifts { get; set; }
-        public ICollection<Gift>? InvitedGifts { get; set; }
+        //ICollection
+        public ICollection<CardCart> CardCart { get; set; }=new List<CardCart>();
+        public ICollection<PackageCart> PackageCart { get; set; } = new List<PackageCart>();
+        public ICollection<Card> Cards { get; set; } = new List<Card>();
+        //public ICollection<Gift>? WonGifts { get; set; }
+        //public ICollection<Gift>? InvitedGifts { get; set; }
     }
 }

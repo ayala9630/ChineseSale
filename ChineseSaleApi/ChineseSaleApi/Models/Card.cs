@@ -7,6 +7,7 @@ namespace ChineseSaleApi.Models
     {
         [Key]
         public int Id { get; set; }
+        public bool? IsWin { get; set; } = false;
         //forigen key
         [Required]
         [ForeignKey("User")]
@@ -14,7 +15,7 @@ namespace ChineseSaleApi.Models
         public User? User { get; set; }
         [Required]
         [ForeignKey("Gift")]
-        public int GiftId{ get; set; }
+        public int GiftId { get; set; }
         public Gift? Gift { get; set; }
     }
 }

@@ -9,6 +9,7 @@ namespace ChineseSaleApi.Models
         [Required]
         [MaxLength(30)]
         public string Name { get; set; }
-        public ICollection<Gift>? Gifts { get; set; }
+        //ICollection
+        public ICollection<Gift> Gifts { get; set; }= new List<Gift>();
     }
 }
