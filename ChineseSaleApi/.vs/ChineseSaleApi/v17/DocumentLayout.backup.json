@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\",
+  "WorkspaceRootPath": "M:\\Api\\ChineseSale\\ChineseSaleApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\project-angular-api\\chinesesaleapi\\chinesesaleapi\\controllers\\lotterycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\controllers\\lotterycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|m:\\api\\chinesesale\\chinesesaleapi\\chinesesaleapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\project-angular-api\\chinesesaleapi\\chinesesaleapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|m:\\api\\chinesesale\\chinesesaleapi\\chinesesaleapi\\serviceinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\serviceinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\project-angular-api\\chinesesaleapi\\chinesesaleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|m:\\api\\chinesesale\\chinesesaleapi\\chinesesaleapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\project-angular-api\\chinesesaleapi\\chinesesaleapi\\services\\lotteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\services\\lotteryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|m:\\api\\chinesesale\\chinesesaleapi\\chinesesaleapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\project-angular-api\\chinesesaleapi\\chinesesaleapi\\dto\\lotterydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\dto\\lotterydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|m:\\api\\chinesesale\\chinesesaleapi\\chinesesaleapi\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\project-angular-api\\chinesesaleapi\\chinesesaleapi\\repositoryinterfaces\\ilotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\repositoryinterfaces\\ilotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|m:\\api\\chinesesale\\chinesesaleapi\\chinesesaleapi\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|c:\\users\\this_user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\project-angular-api\\chinesesaleapi\\chinesesaleapi\\repositories\\lotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\repositories\\lotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|m:\\api\\chinesesale\\chinesesaleapi\\chinesesaleapi\\serviceinterfaces\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\serviceinterfaces\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|m:\\api\\chinesesale\\chinesesaleapi\\chinesesaleapi\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|m:\\api\\chinesesale\\chinesesaleapi\\chinesesaleapi\\services\\cardcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\services\\cardcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|m:\\api\\chinesesale\\chinesesaleapi\\chinesesaleapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEE52D7-8A77-47B8-9534-19D0FC172D5F}|ChineseSaleApi\\ChineseSaleApi.csproj|solutionrelative:chinesesaleapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,98 +53,133 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Dto\\UserDto.cs",
+              "ToolTip": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Dto\\UserDto.cs*",
+              "RelativeToolTip": "ChineseSaleApi\\Dto\\UserDto.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:07:03.954Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "ChineseSaleApi\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "ChineseSaleApi\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAB0vRIAAAAnAAAAAAAAAA==",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\ServiceInterfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\ServiceInterfaces\\IUserService.cs",
+              "ToolTip": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\ServiceInterfaces\\IUserService.cs*",
+              "RelativeToolTip": "ChineseSaleApi\\ServiceInterfaces\\IUserService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T19:00:24.027Z",
+              "WhenOpened": "2025-12-23T17:59:46.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LotteryController.cs",
-              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Controllers\\LotteryController.cs",
-              "RelativeDocumentMoniker": "ChineseSaleApi\\Controllers\\LotteryController.cs",
-              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Controllers\\LotteryController.cs*",
-              "RelativeToolTip": "ChineseSaleApi\\Controllers\\LotteryController.cs*",
-              "ViewState": "AgIAABoAAAAA6JmZmZnZvx4AAAANAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Controllers\\UserController.cs",
+              "ToolTip": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "ChineseSaleApi\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T18:59:16.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Program.cs",
-              "RelativeDocumentMoniker": "ChineseSaleApi\\Program.cs",
-              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Program.cs*",
-              "RelativeToolTip": "ChineseSaleApi\\Program.cs*",
-              "ViewState": "AgIAABAAAACALzMzMzMLwCEAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T18:58:20.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LotteryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Repositories\\LotteryRepository.cs",
-              "RelativeDocumentMoniker": "ChineseSaleApi\\Repositories\\LotteryRepository.cs",
-              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Repositories\\LotteryRepository.cs",
-              "RelativeToolTip": "ChineseSaleApi\\Repositories\\LotteryRepository.cs",
-              "ViewState": "AgIAAAsAAACA9v////8PwBkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T18:22:45.131Z",
+              "WhenOpened": "2025-12-23T17:59:22.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ILotteryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\RepositoryInterfaces\\ILotteryRepository.cs",
-              "RelativeDocumentMoniker": "ChineseSaleApi\\RepositoryInterfaces\\ILotteryRepository.cs",
-              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\RepositoryInterfaces\\ILotteryRepository.cs",
-              "RelativeToolTip": "ChineseSaleApi\\RepositoryInterfaces\\ILotteryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Services\\AddressService.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Services\\AddressService.cs",
+              "ToolTip": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Services\\AddressService.cs",
+              "RelativeToolTip": "ChineseSaleApi\\Services\\AddressService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T18:22:41.026Z",
+              "WhenOpened": "2025-12-23T17:38:31.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LotteryService.cs",
-              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Services\\LotteryService.cs",
-              "RelativeDocumentMoniker": "ChineseSaleApi\\Services\\LotteryService.cs",
-              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Services\\LotteryService.cs*",
-              "RelativeToolTip": "ChineseSaleApi\\Services\\LotteryService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "IAddressService.cs",
+              "DocumentMoniker": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\ServiceInterfaces\\IAddressService.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\ServiceInterfaces\\IAddressService.cs",
+              "ToolTip": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\ServiceInterfaces\\IAddressService.cs",
+              "RelativeToolTip": "ChineseSaleApi\\ServiceInterfaces\\IAddressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:56:53.602Z",
+              "WhenOpened": "2025-12-23T17:56:54.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Models\\User.cs",
+              "ToolTip": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Models\\User.cs",
+              "RelativeToolTip": "ChineseSaleApi\\Models\\User.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAWwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:47:05.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Address.cs",
+              "DocumentMoniker": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Models\\Address.cs",
+              "ToolTip": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Models\\Address.cs",
+              "RelativeToolTip": "ChineseSaleApi\\Models\\Address.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:46:56.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Services\\UserService.cs",
+              "ToolTip": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Services\\UserService.cs*",
+              "RelativeToolTip": "ChineseSaleApi\\Services\\UserService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:38:32.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CardCartService.cs",
+              "DocumentMoniker": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Services\\CardCartService.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Services\\CardCartService.cs",
+              "ToolTip": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Services\\CardCartService.cs",
+              "RelativeToolTip": "ChineseSaleApi\\Services\\CardCartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:09:43.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LotteryDto.cs",
-              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Dto\\LotteryDto.cs",
-              "RelativeDocumentMoniker": "ChineseSaleApi\\Dto\\LotteryDto.cs",
-              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D9\u05D2\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05D0\u05D9\u05DC\u05D4\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\Dto\\LotteryDto.cs",
-              "RelativeToolTip": "ChineseSaleApi\\Dto\\LotteryDto.cs",
-              "ViewState": "AgIAAAwAAACgzMzMzMw2wBUAAAABAAAAAAAAAA==",
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Repositories\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "ChineseSaleApi\\Repositories\\AddressRepository.cs",
+              "ToolTip": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\Repositories\\AddressRepository.cs",
+              "RelativeToolTip": "ChineseSaleApi\\Repositories\\AddressRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:56:38.316Z",
+              "WhenOpened": "2025-12-23T18:11:33.946Z",
               "EditorCaption": ""
             }
           ]

@@ -15,10 +15,11 @@ namespace ChineseSaleApi.Repositories
         }
 
         //create
-        public async Task AddAddress(Address address)
+        public async Task<int> AddAddress(Address address)
         {
             _context.Addresses.Add(address);
             await _context.SaveChangesAsync();
+            return address.Id;
         }
 
         //read

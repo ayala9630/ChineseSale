@@ -24,7 +24,7 @@ namespace ChineseSaleApi.Models
         public string? Phone { get; set; }
         public bool IsAdmin { get; set; } = false;
         //forigen key
-        public int? AddressId { get; set; }
+        public int AddressId { get; set; }
         public Address? Address { get; set; }
         //ICollection
         public ICollection<CardCart> CardCart { get; set; }=new List<CardCart>();

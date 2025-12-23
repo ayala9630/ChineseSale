@@ -12,7 +12,7 @@ namespace ChineseSaleApi.Services
             _repository = repository;
         }
         //create
-        public async Task AddAddressForUser(CreateAddressForUserDto address)
+        public async Task<int> AddAddressForUser(CreateAddressForUserDto address)
         {
             Address addrress2 = new Address
             {
@@ -21,9 +21,9 @@ namespace ChineseSaleApi.Services
                 Number = address.Number,
                 ZipCode = address.ZipCode
             };
-            await _repository.AddAddress(addrress2);
+            return await _repository.AddAddress(addrress2);
         }
-        public async Task AddAddressForDonor(CreateAddressForDonorDto address)
+        public async Task<int> AddAddressForDonor(CreateAddressForDonorDto address)
         {
             Address addrress2 = new Address
             {
@@ -32,7 +32,7 @@ namespace ChineseSaleApi.Services
                 Number = address.Number,
                 ZipCode = address.ZipCode
             };
-            await _repository.AddAddress(addrress2);
+             return await _repository.AddAddress(addrress2);
         }
         //read
         public async Task<AddressDto?> GetAddressById(int id)
@@ -52,6 +52,18 @@ namespace ChineseSaleApi.Services
             };
         }
         //update
+        public async Task UpdateAddress(AddressDto addressDto)
+        {
+            var address = await _repository.GetAddress(addressDto.Id);
+            if (address != null)
+            {
+                address.City = addressDto.City;
+                address.Street = addressDto.Street;
+                address.Number = addressDto.Number;
+                address.ZipCode = addressDto.ZipCode;
+                await  _repository.UpdateAddress(address);
+            }
+        }
 
     }
 }

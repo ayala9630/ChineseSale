@@ -9,5 +9,6 @@ namespace ChineseSaleApi.Services
         {
             _repository = repository;
         }
+
     }
 }
