@@ -13,15 +13,20 @@ namespace ChineseSaleApi.Repositories
             _context = context;
         }
         //create
-        public async Task AddCard(Card card)
+        public async Task<int> AddCard(Card card)
         {
             _context.Cards.Add(card);
             await _context.SaveChangesAsync();
+            return card.Id;
         }
         //read
-        public async Task<Card?> GetCard(int id)
+        public async Task<IEnumerable<Card>> GetAllCards()
         {
-            return await _context.Cards.FirstOrDefaultAsync(x => x.Id == id);
+            return await _context.Cards.Include(p => p.Gift).ToListAsync();//.GroupBy(x => new {x.GiftId, x.Gift.Name, x.Gift.ImageUrl}).ToListAsync();//.GroupBy(x => x.GiftId).ToListAsync();
+        }
+        public async Task<IEnumerable<Card?>> GetCardByGiftId(int id)
+        {
+            return await _context.Cards.Include(g=>g.Gift).Include(u=>u.User).Where(x => x.GiftId == id).ToListAsync();
         }
         //update
         public async Task UpdateCard(Card card)

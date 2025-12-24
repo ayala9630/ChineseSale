@@ -5534,32 +5534,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\215635608\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\This_user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj",
+      "projectUniqueName": "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj",
       "projectName": "ChineseSaleApi",
-      "projectPath": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj",
-      "packagesPath": "C:\\Users\\215635608\\.nuget\\packages\\",
-      "outputPath": "M:\\Api\\ChineseSale\\ChineseSaleApi\\ChineseSaleApi\\obj\\",
+      "projectPath": "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\ChineseSaleApi.csproj",
+      "packagesPath": "C:\\Users\\This_user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\This_user\\Documents\\הנדסאים יג\\הנדסאים אילה\\Project-Angular-Api\\ChineseSaleApi\\ChineseSaleApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\215635608\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\This_user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5648,7 +5652,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
