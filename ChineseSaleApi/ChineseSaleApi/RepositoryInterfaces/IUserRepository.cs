@@ -4,7 +4,7 @@ namespace ChineseSaleApi.RepositoryInterfaces
 {
     public interface IUserRepository
     {
-        Task AddUser(User user);
+        Task<int> AddUser(User user);
         Task<IEnumerable<User>> GetAllUsers();
         Task<User?> GetUserById(int id);
         Task<User?> GetUserByUserName(string userName);

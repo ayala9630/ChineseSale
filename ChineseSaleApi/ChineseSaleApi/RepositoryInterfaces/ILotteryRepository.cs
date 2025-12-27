@@ -4,7 +4,7 @@ namespace ChineseSaleApi.RepositoryInterfaces
 {
     public interface ILotteryRepository
     {
-        Task AddLottery(Lottery lottery);
+        Task<int> AddLottery(Lottery lottery);
         Task DeleteLottery(int id);
         Task<IEnumerable<Lottery>> GetAllLotteries();
         Task<Lottery?> GetLotteryById(int id);

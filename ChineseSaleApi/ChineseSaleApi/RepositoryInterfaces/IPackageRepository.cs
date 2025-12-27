@@ -4,7 +4,7 @@ namespace ChineseSaleApi.RepositoryInterfaces
 {
     public interface IPackageRepository
     {
-        Task AddPackage(Package package);
+        Task<int> AddPackage(Package package);
         Task DeletePackage(int id);
         Task<IEnumerable<Package>> GetAllPackages();
         Task<Package?> GetPackage(int id);

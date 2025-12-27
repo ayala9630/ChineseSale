@@ -4,7 +4,7 @@ namespace ChineseSaleApi.RepositoryInterfaces
 {
     public interface ICategoryRepository
     {
-        Task AddCategory(Category category);
+        Task<int> AddCategory(Category category);
         Task DeleteCategory(int id);
         Task<IEnumerable<Category>> GetAllCategories();
         Task<Category?> GetCategory(int id);

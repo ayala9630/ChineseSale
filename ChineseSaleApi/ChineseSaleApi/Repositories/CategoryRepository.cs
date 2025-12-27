@@ -13,10 +13,11 @@ namespace ChineseSaleApi.Repositories
             _context = context;
         }
         //create
-        public async Task AddCategory(Category category)
+        public async Task<int> AddCategory(Category category)
         {
             _context.Categories.Add(category);
             await _context.SaveChangesAsync();
+            return category.Id;
         }
         //read
         public async Task<IEnumerable<Category>> GetAllCategories()

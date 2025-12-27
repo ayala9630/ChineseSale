@@ -13,10 +13,11 @@ namespace ChineseSaleApi.Repositories
             _context = context;
         }
         //create
-        public async Task AddLottery(Lottery lottery)
+        public async Task<int> AddLottery(Lottery lottery)
         {
             _context.Lotteries.Add(lottery);
             await _context.SaveChangesAsync();
+            return lottery.Id;
         }
         //read
         public async Task<IEnumerable<Lottery>> GetAllLotteries()

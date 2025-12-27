@@ -13,10 +13,11 @@ namespace ChineseSaleApi.Repositories
             _context = context;
         }
         //create
-        public async Task AddPackage(Package package)
+        public async Task<int> AddPackage(Package package)
         {
             _context.Packages.Add(package);
             await _context.SaveChangesAsync();
+            return package.Id;
         }
         //read
         public async Task<IEnumerable<Package>> GetAllPackages()

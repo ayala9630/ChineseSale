@@ -34,6 +34,9 @@ builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<ILotteryService, LotteryService>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<ICardService, CardService>();
+builder.Services.AddScoped<IGiftService, GiftService>();
+builder.Services.AddScoped<ICardCartService, CardCartService>();
+builder.Services.AddScoped<IPackageCartService, PackageCartService>();
 
 
 

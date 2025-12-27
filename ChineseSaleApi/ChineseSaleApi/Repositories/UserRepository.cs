@@ -13,10 +13,11 @@ namespace ChineseSaleApi.Repositories
             _context = context;
         }
         //create
-        public async Task AddUser(User user)
+        public async Task<int> AddUser(User user)
         {
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
+            return user.Id;
         }
         //read
         public async Task<User?> GetUserById(int id)
